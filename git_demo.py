@@ -6,3 +6,4 @@ git_txt3="hello git!!!3"
 print(git_txt)
 print(git_txt2)
 print(git_txt3)
+print("master test!")
